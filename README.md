@@ -1,4 +1,4 @@
 # 422---Practical-ML
-MSDS 422 - Practical Machine Learning
+## MSDS 422 - Practical Machine Learning
 
-/nProjects and course work for this class
+Projects and course work for this class
