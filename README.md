@@ -1,7 +1,10 @@
-# 422---Practical-ML
-## MSDS 422 - Practical Machine Learning
+# MSDS 422 - Practical Machine Learning
 
-Projects and course work for this class
+**Course Decription:**
+The course introduced machine learning with business applications. It provided a survey of machine learning techniques, including traditional statistical methods, resampling techniques, model selection and regularization, tree-based methods, principal components analysis, cluster analysis, artificial neural networks, and deep learning. We implemented machine learning models with open-source software for data science. We explored data, found underlying patterns useful for data reduction, feature analysis, prediction, and classification. 
+
+
+**Projects From This Class:**
 
 Week 1: EDA on Coronavirus data <br>
 Week 2: Regression analysis on housing data <br>
